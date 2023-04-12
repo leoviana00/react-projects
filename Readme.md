@@ -49,6 +49,12 @@
         - [ ] useCallback
 - [ ] Projetos
     - [ ] [Projeto Biscoito da sorte](./biscoitodasorte/README.md)
+    - [ ] [Projeto Contador](./contador/README.md)
+    - [ ] [Projeto Contador utilizando o hook useStates](./contador-usestate/README.md)
+    - [ ] [Projeto Cronometro](./cronometro/README.md)
+    - [ ] [Projeto para praticar consumo de uma API]
+    - [ ] [Projeto para treinar rotas - app-routes]
+    - [ ] [Projeto Filmes]
 
 ## License
 
