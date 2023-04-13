@@ -12,8 +12,8 @@
 ## Etapas
 
 - [ ] Projeto Filmes
-    - [ ] Criar o projetp
-    - [ ] Criar o Header
+    - [x] Criar o projeto
+    - [x] Criar o Header
     - [ ] Criar a Home
     - [ ] Listar filmes
     - [ ] Carregar filmes
