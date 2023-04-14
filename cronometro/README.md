@@ -1,7 +1,7 @@
 <h1 align="center">Cronometro</h1>
 
 <p align="center">
-  <img alt="k8s" src="images/cronometro.png">
+  <img alt="react" src="images/cronometro.png">
 </p>
 
 
