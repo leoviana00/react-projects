@@ -45,7 +45,7 @@
     - [x] [Projeto Cronometro](./cronometro/README.md)
     - [x] [Projeto para praticar consumo de uma API](./blog-nutri/README.md)
     - [x] [Projeto para treinar rotas - app-routes](./app-router/README.md)
-    - [ ] [Projeto Filmes](./filmes/README.md)
+    - [ ] [Projeto Filmes](./filmes/README.md) - `Em dandamento`
 
 ## 📄 Licença
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.

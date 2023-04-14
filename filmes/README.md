@@ -1,5 +1,9 @@
 <h1 align="center">Prime Flix</h1>
 
+<p align="center">
+  <img alt="react" src="images/filmes.png">
+</p>
+
 ## Project
 
 - Projeto para praticar react - Prime flix, consumir uma api externa de catálogo de filmes.
