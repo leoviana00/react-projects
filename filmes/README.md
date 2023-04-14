@@ -37,3 +37,7 @@ npm install
 ```bash
 npm start
 ```
+
+## Referência
+
+- [API FILMES](https://www.themoviedb.org/)
