@@ -1,9 +1,9 @@
 <h1 align="center">Prime Flix</h1>
 
 <p align="center">
-    <p>Projeto Prime Flix</p>
-    <img style="max-width:800px;" src="https://cdn.loom.com/sessions/thumbnails/1058d69c6e474227a400ef60b056016c-with-play.gif">
+<img style="max-width:800px;" src="https://cdn.loom.com/sessions/thumbnails/1058d69c6e474227a400ef60b056016c-with-play.gif">
 </p>
+
 
 ## Project
 
