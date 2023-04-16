@@ -38,7 +38,7 @@
 - [x] [Estudo básico do Java Script](./base/Readme.md)
 - [x] [Estudo básico do React](./base/Readme.md)
 - [ ] Projetos
-    - [x] [Projeto base]((./basic-project/README.md))
+    - [x] [Projeto base](./basic-project/README.md)
     - [x] [Projeto Biscoito da sorte](./biscoitodasorte/README.md)
     - [x] [Projeto Contador](./contador/README.md)
     - [x] [Projeto Contador utilizando o hook useStates](./contador-usestate/README.md)
