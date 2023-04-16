@@ -49,7 +49,7 @@ function Filme(){
 
         filmesSalvos.push(filme);
         localStorage.setItem("@primeFlix", JSON.stringify(filmesSalvos));
-        alert('FIlme Salvo com sucesso!')
+        alert('Filme Salvo com sucesso!')
     }
 
     if(loading){
