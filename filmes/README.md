@@ -45,3 +45,4 @@ npm start
 ## Referência
 
 - [API FILMES](https://www.themoviedb.org/)
+- [BIBLIOTECA REACRT TOASTTIFY](https://www.npmjs.com/package/react-toastify)
