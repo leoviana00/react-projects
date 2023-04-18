@@ -7,12 +7,14 @@
 ## Project
 
 - Projeto para praticar react - Prime flix, consumir uma api externa de catálogo de filmes.
+- URL: https://viana-films.netlify.app/
 
 
 ## Tecnologia
 
 - React
 - JavaScript
+- Netlify
 
 ## Etapas
 
@@ -48,8 +50,44 @@ npm start
 - `react-router-dom`
 - `react-toastify`
 - `axios`
+- `netlify-cli`
+
+## Deploy
+
+- Build
+
+```bash
+npm run build
+```
+
+- Instalando cli do `Netlify`
+
+```bash
+npm install -g netlify-cli
+```
+- Deploy via cli
+
+```bash
+netlify deploy
+```
+- Publish directory: `./build`
+
+<p align="center">
+  <img alt="react" src="images/deploy-netlify.png">
+</p>
+
+
+```bash
+netlify deploy --prod
+```
+- Publish directory: `./build`
+
+<p align="center">
+  <img alt="react" src="images/deploy-netlify-prod.png">
+</p>
 
 ## Referência
 
 - [API FILMES](https://www.themoviedb.org/)
 - [BIBLIOTECA REACT TOASTTIFY](https://www.npmjs.com/package/react-toastify)
+- [NETLIFY](https://app.netlify.com/)
